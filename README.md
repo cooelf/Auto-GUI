@@ -1,4 +1,4 @@
-# You Only Look at Screens: Multimodal Chain-of-Action Agents
+## You Only Look at Screens: Multimodal Chain-of-Action Agents
 
 *"In every systematic inquiry (methodos) where there are first principles, or causes, or elements, knowledge and science result from acquiring knowledge of these; for we think we know something just in case we acquire knowledge of the primary causes, the primary first principles, all the way to the elements."*
 
