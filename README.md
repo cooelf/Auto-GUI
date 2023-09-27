@@ -84,6 +84,17 @@ CUDA_VISIBLE_DEVICES=0,1 python main.py \
     --evaluate_dir Auto-UI-Base
 ```
 
+## Citing Auto-UI
+
+```
+@article{zhan2023autoui,
+  title={You Only Look at Screens: Multimodal Chain-of-Action Agents},
+  author={Zhan, Zhuosheng and Zhang, Aston},
+  journal={arXiv preprint arXiv:2309.11436},
+  year={2023}
+}
+```
+
 ## License
 
 This project is licensed under the Apache-2.0 License.
