@@ -93,8 +93,8 @@ def load_data(args, split):
                 scroll_map = {
                     "up": [[0.8000, 0.5000], [0.2000, 0.5000]],
                     "down": [[0.2000, 0.5000], [0.8000, 0.5000]],
-                    "left": [[0.8000, 0.5000], [0.2000, 0.5000]],
-                    "right": [[0.2000, 0.5000], [0.8000, 0.5000]]
+                    "left": [[0.5000, 0.8000], [0.5000, 0.2000]],
+                    "right": [[0.5000, 0.2000], [0.5000, 0.8000]]
                 }
                 action_touch_yx = jnp.asarray(result_touch_yx)
                 action_lift_yx = jnp.asarray(result_lift_yx)
